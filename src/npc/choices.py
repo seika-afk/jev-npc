@@ -1,4 +1,3 @@
-"""Dialogue data used by the NPC conversation engine."""
 
 from __future__ import annotations
 

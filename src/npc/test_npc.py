@@ -1,9 +1,7 @@
-"""Choice-driven gatekeeper scene for trying different dialogue routes."""
-
+# sorta inference for this or smtg similar , just manipulate this accordingly to use this codebase
+# also make changes in choices.py
 from dataclasses import dataclass
-
 import requests
-
 from faster_jev_call import NPC
 
 
